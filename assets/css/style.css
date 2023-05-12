@@ -9,6 +9,7 @@
 }
 body {
     width: 80%;
+    justify-content: center;
 }
 * {
     margin: 0;
@@ -74,14 +75,12 @@ section:nth-of-type(1) a:nth-of-type(1) {
     background: #000;
     border: 1px solid;
     color: #fff;
-    padding: 2% 3.5%;
-    border-radius: 4px;
+    padding: 1.9% 3.5%;
 }
 
 section:nth-of-type(1) a:nth-of-type(2) {
     border: 1px solid;
-    padding: 2% 3.5%;
-    border-radius: 4px;
+    padding: 1.8% 3.5%;
 }
 
 section:nth-of-type(2) {
@@ -112,13 +111,13 @@ section:nth-of-type(4) p {
 
 section:nth-of-type(4) img {
     width: 25%;
-    margin: 2 auto 20 auto%;
+    margin: 2 auto 20 auto;
 
 }
 
 section:nth-of-type(5) p {
     width: 45%;
-    margin: 0 auto 9% auto
+    margin: 0 auto 9% auto;
 }
 
 section:nth-of-type(5) article {
